@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\GKELogsApp\\GKELogsApp.csproj",
+      "projectUniqueName": "D:\\localgkelogstest\\GKELogsApp\\GKELogsApp.csproj",
       "projectName": "GKELogsApp",
-      "projectPath": "D:\\github\\GKELogsApp\\GKELogsApp.csproj",
+      "projectPath": "D:\\localgkelogstest\\GKELogsApp\\GKELogsApp.csproj",
       "packagesPath": "D:\\Users\\XP.Saravanan.Jayapra\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\GKELogsApp\\obj\\",
+      "outputPath": "D:\\localgkelogstest\\GKELogsApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

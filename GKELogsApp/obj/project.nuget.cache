@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LHlHDRWDDRL+0M2rt8W4dkAyKsRPEhh+AfToTE++VYhxfHZj6F/MFtd5qvHd1YuVmsezXzTCAyIMRrnfraXs8g==",
+  "dgSpecHash": "bq27ySiMFoHRT5uER4UDJZ8Nmn4jYgRATbl/G5a392y5UlN2W+KajOHryqhNO1s7/yiJop/0SNF9KxPQoiwvsA==",
   "success": true,
-  "projectFilePath": "D:\\github\\GKELogsApp\\GKELogsApp.csproj",
+  "projectFilePath": "D:\\localgkelogstest\\GKELogsApp\\GKELogsApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
