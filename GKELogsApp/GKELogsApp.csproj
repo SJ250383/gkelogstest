@@ -4,12 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Views\Logs\**" />
-    <Content Remove="Views\Logs\**" />
-    <EmbeddedResource Remove="Views\Logs\**" />
-    <None Remove="Views\Logs\**" />
-  </ItemGroup>
+
 
 
 
